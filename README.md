@@ -1,6 +1,6 @@
 # Hi, I'm Rahul N Hegde 👋
 
-I’m a B.Tech Electronics & Communication student at PES University (2023–2027), exploring digital design, embedded systems, and signal/image processing. I enjoy building things that connect theory with hardware and real-world behaviour.
+ECE undergrad at PES University, passionate about VLSI, semiconductors digital systems & Computer Network . Aspiring chip designer driven to innovate & shape tomorrow’s tech 'one nanometer at a time'.
 
 ---
 
