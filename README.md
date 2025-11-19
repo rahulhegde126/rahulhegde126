@@ -38,8 +38,9 @@ ECE undergrad at PES University, passionate about VLSI, semiconductors,digital s
 
 ## 📚 Currently Exploring
 
-- FPGA design and RTL verification  
-- RISC-V architecture and low-level programming  
+- working on  IC aging and recycle ic ditection 
+- Vlsi and RTL verification  
+- RISC-V architecture and assembly-level programming  
 - Computer networks and protocol analysis with Wireshark/GNS3  
 
 ---
