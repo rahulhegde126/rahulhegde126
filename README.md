@@ -1,6 +1,6 @@
 # Hi, I'm Rahul N Hegde 👋
 
-ECE undergrad at PES University, passionate about VLSI, semiconductors digital systems & Computer Network . Aspiring chip designer driven to innovate & shape tomorrow’s tech 'one nanometer at a time'.
+ECE undergrad at PES University, passionate about VLSI, semiconductors,digital systems & Computer Network . Aspiring chip designer driven to innovate & shape tomorrow’s tech 'one nanometer at a time'.
 
 ---
 
