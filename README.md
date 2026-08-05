@@ -13,7 +13,7 @@ ECE undergrad at PES University, passionate about VLSI, semiconductors, digital 
 
 ## 💼 Experience
 
-### 🛰️ Def-Space Internship — Indian Space Research Organisation (ISRO)
+### 🛰️ Def-Space Research Internship — Indian Space Research Organisation (ISRO)
 **May 2026 – Jul 2026 | Bengaluru, India**
 
 - Engineered a post-quantum cryptographic security framework for satellite ground segment communication using ML-KEM-1024 (FIPS 203) and ML-DSA-65 (FIPS 204), replacing RSA/ECDH with NIST-standardised lattice-based algorithms resistant to quantum attacks via Shor's algorithm.
